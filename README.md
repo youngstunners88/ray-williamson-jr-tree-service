@@ -1,2 +1,4 @@
-# ray-williamson-jr-tree-service
-Website for Ray Williamson Jr Tree Service - Professional services
+# Ray Williamson Jr Tree Service
+**Specialty:** Tree services
+
+Named after founder Ray Williamson Jr.
